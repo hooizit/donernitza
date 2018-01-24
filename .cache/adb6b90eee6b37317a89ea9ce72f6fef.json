@@ -1,0 +1,1 @@
+{"dependencies":[],"generated":{"js":"const t=document.querySelector(\"button[aria-expanded]\");function e({target:e}){const a=\"true\"===e.getAttribute(\"aria-expanded\")||!1;t.setAttribute(\"aria-expanded\",!a)}t.addEventListener(\"click\",e),ß;"},"hash":"1b085e52d208c274ac942a564bf4ca2d","cacheData":{"env":{}}}
